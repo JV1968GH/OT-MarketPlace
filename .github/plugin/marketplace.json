@@ -13,10 +13,7 @@
       "description": "Check-outs en Check-ins van en naar Octoplant versiebeheer",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/Octoplant-Plugin",
-      "source": {
-        "source": "github",
-        "repo": "JV1968GH/Octoplant-Plugin"
-      },
+      "source": "JV1968GH/Octoplant-Plugin",
       "strict": false
     },
     {
@@ -24,10 +21,7 @@
       "description": "Exports vanuit de APG bibliotheek met standaard software",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/APG-Plugin",
-      "source": {
-        "source": "github",
-        "repo": "JV1968GH/APG-Plugin"
-      },
+      "source": "JV1968GH/APG-Plugin",
       "strict": false
     },
     {
@@ -35,10 +29,7 @@
       "description": "PLC aanpassingen in Schneider Control Expert",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/Control_Expert-Plugin",
-      "source": {
-        "source": "github",
-        "repo": "JV1968GH/Control_Expert-Plugin"
-      },
+      "source": "JV1968GH/Control_Expert-Plugin",
       "strict": false
     }
   ]
