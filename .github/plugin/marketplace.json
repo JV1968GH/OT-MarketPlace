@@ -1,11 +1,11 @@
-﻿{
-  "name": "OT-MarketPlace",
+{
+  "name": "ot-marketplace",
   "owner": {
     "name": "OT-MarketPlace"
   },
   "metadata": {
     "description": "Marketplace for OT automation Copilot CLI plugins",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "plugins": [
     {

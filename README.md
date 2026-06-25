@@ -1,4 +1,4 @@
-﻿# OT-MarketPlace
+# OT-MarketPlace
 
 Deze repository publiceert een GitHub Copilot CLI marketplace voor:
 
@@ -13,15 +13,15 @@ Open de terminal in de Copilot Desktop app en voer uit:
 ```powershell
 copilot plugin marketplace add <owner>/OT-MarketPlace
 copilot plugin marketplace list
-copilot plugin marketplace browse OT-MarketPlace
+copilot plugin marketplace browse ot-marketplace
 ```
 
 Plugins installeren vanuit de marketplace:
 
 ```powershell
-copilot plugin install octoplant-plugin@OT-MarketPlace
-copilot plugin install apg-plugin@OT-MarketPlace
-copilot plugin install control-expert-plugin@OT-MarketPlace
+copilot plugin install octoplant-plugin@ot-marketplace
+copilot plugin install apg-plugin@ot-marketplace
+copilot plugin install control-expert-plugin@ot-marketplace
 ```
 
 ## Beheer
