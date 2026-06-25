@@ -1,11 +1,11 @@
 ﻿{
-  "name": "jv1968gh-plugins-marketplace",
+  "name": "OT-MarketPlace",
   "owner": {
-    "name": "JV1968GH"
+    "name": "OT-MarketPlace"
   },
   "metadata": {
-    "description": "Marketplace for JV1968GH Copilot CLI plugins",
-    "version": "1.0.0"
+    "description": "Marketplace for OT automation Copilot CLI plugins",
+    "version": "1.0.1"
   },
   "plugins": [
     {
