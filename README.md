@@ -8,21 +8,16 @@ Deze repository publiceert een GitHub Copilot CLI marketplace voor:
 
 ## Toevoegen in GitHub Copilot Desktop app
 
-Open de terminal in de Copilot Desktop app en voer uit:
+Gebruik de GUI in de desktop app (Settings venster):
 
-```powershell
-copilot plugin marketplace add <owner>/OT-MarketPlace
-copilot plugin marketplace list
-copilot plugin marketplace browse ot-marketplace
-```
-
-Plugins installeren vanuit de marketplace:
-
-```powershell
-copilot plugin install octoplant-plugin@ot-marketplace
-copilot plugin install apg-plugin@ot-marketplace
-copilot plugin install control-expert-plugin@ot-marketplace
-```
+1. Open **Settings**.
+2. Ga naar **Plugins** > **Marketplaces**.
+3. Kies **Add marketplace** en vul `JV1968GH/OT-MarketPlace` in.
+4. Open daarna de marketplace **ot-marketplace**.
+5. Installeer de plugins via de **Install** knop:
+   - `octoplant-plugin`
+   - `apg-plugin`
+   - `control-expert-plugin`
 
 ## Beheer
 
