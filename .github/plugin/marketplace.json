@@ -1,0 +1,45 @@
+﻿{
+  "name": "jv1968gh-plugins-marketplace",
+  "owner": {
+    "name": "JV1968GH"
+  },
+  "metadata": {
+    "description": "Marketplace for JV1968GH Copilot CLI plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "octoplant-plugin",
+      "description": "Octoplant MCP plugin for read-only checkout and export workflows",
+      "version": "1.0.0",
+      "repository": "https://github.com/JV1968GH/Octoplant-Plugin",
+      "source": {
+        "source": "github",
+        "repo": "JV1968GH/Octoplant-Plugin"
+      },
+      "strict": false
+    },
+    {
+      "name": "apg-plugin",
+      "description": "APG MCP plugin using MCP_APG and ApgSecureCli",
+      "version": "1.0.0",
+      "repository": "https://github.com/JV1968GH/APG-Plugin",
+      "source": {
+        "source": "github",
+        "repo": "JV1968GH/APG-Plugin"
+      },
+      "strict": false
+    },
+    {
+      "name": "control-expert-plugin",
+      "description": "Plugin voor automatisering van Schneider Control Expert via MCP_CE",
+      "version": "1.0.0",
+      "repository": "https://github.com/JV1968GH/Control_Expert-Plugin",
+      "source": {
+        "source": "github",
+        "repo": "JV1968GH/Control_Expert-Plugin"
+      },
+      "strict": false
+    }
+  ]
+}
