@@ -4,13 +4,13 @@
     "name": "OT-MarketPlace"
   },
   "metadata": {
-    "description": "Marketplace for OT automation Copilot CLI plugins",
-    "version": "1.0.2"
+    "description": "Een verzameling van OT-tools voor het werken met AI",
+    "version": "1.0.3"
   },
   "plugins": [
     {
       "name": "octoplant-plugin",
-      "description": "Octoplant MCP plugin for read-only checkout and export workflows",
+      "description": "Check-outs en Check-ins van en naar Octoplant versiebeheer",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/Octoplant-Plugin",
       "source": {
@@ -21,7 +21,7 @@
     },
     {
       "name": "apg-plugin",
-      "description": "APG MCP plugin using MCP_APG and ApgSecureCli",
+      "description": "Exports vanuit de APG bibliotheek met standaard software",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/APG-Plugin",
       "source": {
@@ -32,7 +32,7 @@
     },
     {
       "name": "control-expert-plugin",
-      "description": "Plugin voor automatisering van Schneider Control Expert via MCP_CE",
+      "description": "PLC aanpassingen in Schneider Control Expert",
       "version": "1.0.0",
       "repository": "https://github.com/JV1968GH/Control_Expert-Plugin",
       "source": {
