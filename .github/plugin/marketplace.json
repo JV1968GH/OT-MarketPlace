@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Een verzameling van OT-tools voor het werken met AI",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "plugins": [
     {
@@ -38,6 +38,17 @@
       "source": {
         "source": "github",
         "repo": "JV1968GH/Control_Expert-Plugin"
+      },
+      "strict": false
+    },
+    {
+      "name": "jvai-plugin",
+      "description": "AI hulpmiddelen via JVAI",
+      "version": "1.0.0",
+      "repository": "https://github.com/JV1968GH/JVAI-Plugin",
+      "source": {
+        "source": "github",
+        "repo": "JV1968GH/JVAI-Plugin"
       },
       "strict": false
     }
