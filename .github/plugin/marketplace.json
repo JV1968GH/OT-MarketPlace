@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "Een verzameling van OT-tools voor het werken met AI",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "plugins": [
     {
       "name": "octoplant-plugin",
-      "description": "Check-outs en Check-ins van en naar Octoplant versiebeheer",
-      "version": "1.0.0",
+      "description": "Read-only OctoPlant/versiondog projectnavigatie, checkout en CLI-export",
+      "version": "0.4.0",
       "repository": "https://github.com/JV1968GH/Octoplant-Plugin",
       "source": {
         "source": "github",
