@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Een verzameling van OT-tools voor het werken met AI",
-    "version": "1.0.7"
+    "version": "1.0.8"
   },
   "plugins": [
     {
@@ -51,6 +51,16 @@
         "repo": "JV1968GH/JVAI-Plugin"
       },
       "strict": false
+    },
+    {
+      "name": "mcp-test",
+      "description": "Minimale stdio MCP-connectiviteitstest met een Hello MCP echo-tool",
+      "version": "1.0.0",
+      "repository": "https://github.com/JV1968GH/MCP-Test",
+      "source": {
+        "source": "github",
+        "repo": "JV1968GH/MCP-Test"
+      }
     }
   ]
 }
