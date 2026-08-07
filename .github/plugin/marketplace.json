@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Een verzameling van OT-tools voor het werken met AI",
-    "version": "1.0.9"
+    "version": "1.0.10"
   },
   "plugins": [
     {
@@ -65,7 +65,7 @@
     {
       "name": "sharepoint-plugin",
       "description": "Read-only SharePoint-downloads van automatiserings-werkingsprincipes en I/O-lijsten",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "repository": "https://github.com/JV1968GH/SharePoint-Plugin",
       "source": {
         "source": "github",
