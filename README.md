@@ -7,6 +7,7 @@ Deze repository publiceert een GitHub Copilot CLI marketplace voor:
 - https://github.com/JV1968GH/Control\_Expert-Plugin
 - https://github.com/JV1968GH/JVAI-Plugin
 - https://github.com/JV1968GH/MCP-Test
+- https://github.com/JV1968GH/SharePoint-Plugin
 
 ## Toevoegen in GitHub Copilot Desktop app
 
@@ -20,4 +21,5 @@ Deze repository publiceert een GitHub Copilot CLI marketplace voor:
     - `control-expert-plugin`
     - `jvai-plugin`
     - `mcp-test`
+    - `sharepoint-plugin`
 5. Activeer de plugins met de bijbehorende toggle-switch.
